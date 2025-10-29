@@ -29,5 +29,7 @@ public class Ejemplo051 {
         // System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
         // System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);
         // \n" hace un salto de espacion y el"\n\t" salta 4 espacios
+        
+        
     }
 }
